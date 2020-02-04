@@ -18,7 +18,6 @@
  *       pairs() returns []
  ****************************************************************/
 function pairs(names) {
-  // Your code goes here
   if (!names) {
     return [];
   }
